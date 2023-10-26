@@ -1,2 +1,2 @@
-# MyResume
+# HTML-Portfolio
 Capstone Project
